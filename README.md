@@ -27,9 +27,11 @@ I'm a passionate Senior DevOps Engineer on a mission to build and optimize robus
 - Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)
 
 🚀 **Open Source Contributions**
+
 As an avid open-source enthusiast, I actively contribute to projects that ignite my passion for DevOps, automation, and cloud technologies. Together, let's drive innovation and make the world of tech a better place!
 
 📫 **Let's Connect**
+
 I thrive on discussions, collaborations, and the joy of sharing knowledge. Don't hesitate to reach out to me on LinkedIn(https://www.linkedin.com/in/techwithankush/). Let's embark on this exciting journey together!
 
 Thanks for visiting, and may your coding adventures be filled with joy and success! 👨‍💻🚀
